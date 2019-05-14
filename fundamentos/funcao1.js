@@ -7,7 +7,7 @@ function imprimirSoma(a, b){
 imprimirSoma(2,3)
 
 //função com retorno 
-
+                 //se n passar o "b" por padrão ele recebe 0 
 function soma(a, b=0){
     return a+b
 }
